@@ -3,7 +3,7 @@
     <?php include "header.php" ?>
 <body>
     <div class="container border border-success mt-5">
-        <h1 class="text-center">Fatima Waheed - Assignment No. 3</h1>
+        <h1 class="text-center">Fatima Waheed - CRUD Assignment</h1>
         <ul>
             <li>
                 <a href="login.php">
